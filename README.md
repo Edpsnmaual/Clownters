@@ -12,7 +12,7 @@ Um painel de consulta para facilitar sua vida e ajuda no dia a dia!
 - [x] *Consulta de Covid19*   
 - [x] *Consulta de DDD*         
 - [x] *Consulta de IP*          
-- [ ] *Consulta de nome*           
+- [ ]editania mariadasilva*Consulta de nome*           
 - [ ] *Consulta de telefone*       
 - [x] *Criar script*               
 - [x] *Gerador de CPF*            
